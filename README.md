@@ -1,2 +1,3 @@
 # Power-Bi-Olmypics-data-Analysis-Project
-![Description of image](https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png)
+(https://www.comunidadism.es/wp-content/uploads/2024/09/ejemplos-power-bi-medio-ambiente.jpg)
+
