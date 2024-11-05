@@ -1,4 +1,6 @@
 # Power-Bi-Olmypics-data-Analysis-Project
 ![Ejemplos de Power BI en Medio Ambiente](https://www.comunidadism.es/wp-content/uploads/2024/09/ejemplos-power-bi-medio-ambiente.jpg)
+This project analyzes Olympic Games data using Power BI to derive meaningful insights on various aspects of the Games. The analysis covers multiple key problem statements: the distribution of medals by gender, tracking male and female athlete participation ratios over the years, identifying the top 10 countries by total medal count, and ranking the most successful Olympic medallists by their total number of medals. Additionally, the project examines the total number of countries that have participated in each Olympic Games and explores the evolution of sports included in the Olympics over time. Through interactive visualizations and detailed data exploration, this project aims to uncover trends, patterns, and comparisons that highlight the dynamics of the Olympic Games across different years and regions. The dataset is transformed and analyzed using Power BI’s data modeling and DAX functions to ensure accurate and insightful results.
+![Olympic Data Analysis](https://miro.medium.com/v2/resize:fit:1024/1*g--0GTHNDbGB5lSDqcBcgQ.jpeg)
 
 
